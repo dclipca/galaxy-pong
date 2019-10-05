@@ -1,6 +1,6 @@
 # Galaxy Pong
 
-![Galaxy Pong Preview](https://github.com/virtumonde/galaxy-pong/raw/master/pong_preview.jpg)
+![Galaxy Pong Preview](https://github.com/virtumonde/galaxy-pong/raw/master/pong_preview.png)
 
 Using [cs1lib](http://projectpython.net/chapter19/) to simulate Atari's Pong in a galaxy thematic.
 
